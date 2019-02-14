@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  .todos{
+    margin: 50px;
+    .todo{
+      display: flex;
+      justify-content: center;
+      margin: 20px
+    }
+  }
+}
+
